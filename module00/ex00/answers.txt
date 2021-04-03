@@ -1,0 +1,6 @@
+1-pip list
+2-pip freeze
+3-python -m pip show numpy
+4-
+5-python -m pip freeze > requirements.txt
+
